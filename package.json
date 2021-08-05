@@ -1,0 +1,17 @@
+{
+  "name": "fastify-nextjs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@applicazza/fastify-nextjs": "^0.1.1",
+    "fastify": "^3.20.1",
+    "fastify-static": "^4.2.3",
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
